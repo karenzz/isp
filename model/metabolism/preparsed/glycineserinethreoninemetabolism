@@ -72,7 +72,7 @@ TRYPSYN-RXN
     #equilibrium
     minors INDOLE-3-GLYCEROL-P WATER GAP
     pairs (L-SER L-TRP)
-    genes SP_1811 AND SP_1812 SP_2210 SP_0450
+    genes SP_1811 AND SP_1812 or SP_2210 or SP_0450
         #SP2210 and SP0450 are predictions
         #SP_1811 SP_1812 are subunits for tryptophan synthase
 
